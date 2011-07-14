@@ -1,0 +1,7 @@
+This work is released under GNU Lesser General Public License Version 3.
+The license type for the files dissmain.m and dissmeasure.m is undefined,
+because it is derived from the work of William A. Sethares.
+
+Please read the license text fom file lgpl-3.0.txt.
+
+Martin Schobert <martin@schwingungsebene.de>
